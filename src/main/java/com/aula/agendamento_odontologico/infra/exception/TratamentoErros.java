@@ -1,4 +1,4 @@
-package com.aula.agendamento_odontologico.infra;
+package com.aula.agendamento_odontologico.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.dao.DataIntegrityViolationException;
